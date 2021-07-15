@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kaziMashry
 - 👀 I’m interested in web development
+- 💪 My core strength is Javascript and React JS
 - 🌱 I’m currently learning C# and ASP.NET core
 - 📫 Reach me via my email at kazi.mashry01@gmail.com
 
