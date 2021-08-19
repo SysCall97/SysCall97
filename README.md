@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @kaziMashry
+<h1 align="center">Hi 👋, This is Kazi Mashry</h1>
+<h3 align="center">I am passionate Programmer</h3>
 - 👀 I’m interested in web development and cloud computing
 - 💪 My core strength is Javascript and React JS
 - 🌱 I’m currently learning C# and ASP.NET core
