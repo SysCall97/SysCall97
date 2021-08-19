@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Kazi Mashry</h1>
-<h3 align="center">I am passionate programmer</h3>
+<h3 align="center">I am a passionate programmer, learner</h3>
 
 - 👀 I’m interested in web development and cloud computing
 - 💪 My core strength is Javascript and React JS
