@@ -22,7 +22,7 @@ Besides coding, I love to watch cricket and play table tennis. I'm a big fan of 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syscall97&show_icons=true&locale=en&layout=compact" alt="syscall97" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syscall97&show_icons=true&locale=en" alt="syscall97" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=syscall97&show_icons=true&locale=en" alt="syscall97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syscall97&" alt="syscall97" /></p>
 
