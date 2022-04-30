@@ -17,19 +17,6 @@ Besides coding, I love to watch cricket and play table tennis. I'm a big fan of 
 
 ![Profile views](https://gpvc.arturio.dev/SysCall97)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kazi-mashry-902335152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazi-mashry-902335152" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14692801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14692801" height="30" width="40" /></a>
-<a href="https://fb.com/kazi-mashry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazi-mashry" height="30" width="40" /></a>
-<a href="https://medium.com/@kazi-mashry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kazi-mashry" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mash02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mash02" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mash02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mash02" height="30" width="40" /></a>
-<a href="https://kazi-mashry.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://kazi-mashry.netlify.app/" height="30" width="40" /></a>
-</p>
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syscall97&show_icons=true&locale=en&layout=compact" alt="syscall97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syscall97&show_icons=true&locale=en" alt="syscall97" /></p>
@@ -41,8 +28,14 @@ Besides coding, I love to watch cricket and play table tennis. I'm a big fan of 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SysCall97)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SysCall97)  
-
-![GitHub metrics](https://metrics.lecoq.io/SysCall97)  
   
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kazi-mashry-902335152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazi-mashry-902335152" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14692801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14692801" height="30" width="40" /></a>
+<a href="https://fb.com/kazi-mashry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazi-mashry" height="30" width="40" /></a>
+<a href="https://medium.com/@kazi-mashry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kazi-mashry" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mash02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mash02" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mash02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mash02" height="30" width="40" /></a>
+<a href="https://kazi-mashry.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://kazi-mashry.netlify.app/" height="30" width="40" /></a>
+</p>
