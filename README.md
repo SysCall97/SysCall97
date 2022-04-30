@@ -1,11 +1,14 @@
 ![Programmer | Problem solving enthusiast | Learner](https://media-exp1.licdn.com/dms/image/C5616AQHHWIo7JoLSFQ/profile-displaybackgroundimage-shrink_350_1400/0/1625941280237?e=2147483647&v=beta&t=mQfDe2o2Su7TNhCfrfj4FDtgon8SOMIS52u9qtlIapc)
 
-## Hi there 👋, This is Kazi Mashry
-##### Programmer | Problem solving enthusiast | Learner
-
+<h2 align="center">Hi there 👋, This is Kazi Mashry</h2>
+<h4 align="center">Programmer | Problem solving enthusiast | Learner</h4>
+<div>
+<p align="justify">
 I'm a 4th-year computer science student, currently working with web technologies like JavaScript, Reactjs, and Nodejs. I've done some pet projects with these technologies. I've almost 1.5 years of industrial experience where I built responsive UI for clients and fixed bugs in existing codes. I'm a quick learner. It helped me to get into the company's existing Laravel and Angular code very quickly and bring changes as per the requirement. I'm also interested in competitive programming. Solved 600+ problems in various online judges.
 
 Besides coding, I love to watch cricket and play table tennis. I'm a big fan of England cricket.
+</p>
+</div>
 
 - 🔭 I’m currently working on web apps 
 - 🌱 I’m currently learning clean coding, design patterns 
