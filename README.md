@@ -31,7 +31,7 @@ Besides coding, I love to watch cricket and play table tennis. I'm a big fan of 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SysCall97)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SysCall97)  
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
