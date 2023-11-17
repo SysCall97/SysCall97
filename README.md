@@ -1,18 +1,17 @@
 ![Programmer | Problem solving enthusiast | Learner](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
 <h2 align="center">Hi there 👋, This is Kazi Mashry</h2>
-<h4 align="center">Programmer | Problem solving enthusiast | Learner</h4>
+<h4 align="center">Software Engineer(iOS) | Problem solving enthusiast</h4>
 <div align="left">
 <p align="justify">
-I'm a 4th-year computer science student, currently working with web technologies like JavaScript, Reactjs, and Nodejs. I've done some pet projects with these technologies. I've almost 1.5 years of industrial experience where I built responsive UI for clients and fixed bugs in existing codes. I'm a quick learner. It helped me to get into the company's existing Laravel and Angular code very quickly and bring changes as per the requirement. I'm also interested in competitive programming. Solved 650+ problems in various online judges.
-
+  Hi, I'm a software engineer(iOS) based in Dhaka, Bangladesh. Currently, I'm working with Swift, UIKit, and SwiftUI to develop fancy iOS apps for my current company. Early on in my career, I've worked for various other companies where I've worked on web technologies.
 Besides coding, I love to watch cricket and play table tennis. I'm a big fan of England cricket.
 </p>
 </div>
-<img align="right" alt="codign" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/11289837/work_from_hom_size.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/11289837/work_from_hom_size.gif">
 
-- 🔭 I’m currently working on web apps 
-- 🌱 I’m currently learning clean coding, design patterns 
+- 🔭 I’m currently working on iOS apps 
+- 🌱 I’m currently learning deep understanding of iOS app development
 - 📫 How to reach me: kazi.mashry01@gmail.com 
 - ⚡ Fun fact: want to play table tennis? 😉 
 
